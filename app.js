@@ -223,7 +223,9 @@ document.addEventListener("DOMContentLoaded", () => {
             // setTimeout(function () {
             //     alert('Game over!!!')
             // }, 500)
+            alert("game over")
             scoreDisplay.innerHTML = "Game Over!!!"
+            
         }
     }
 
